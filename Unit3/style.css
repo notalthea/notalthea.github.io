@@ -1,0 +1,33 @@
+#stripes {
+	height: 10px;
+	width: 100%;
+	background-image: url("stripes.png");
+	background-repeat: repeat-x;
+}
+
+#content {
+	width: 500px;
+	margin-top: 250px;
+	margin-left: 100px;
+}
+
+body {
+	margin: 0;
+	background-image: url("background.jpg");
+}
+
+hr {
+	border: 1px solid red;
+	width: 5%;
+	margin-left: 0;
+}
+
+p {
+	color: white;
+	font-family: Arial, sans-serif;
+}
+
+button {
+	border: 0;
+	padding: 0;
+}
