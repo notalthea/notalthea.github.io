@@ -1,0 +1,52 @@
+#page { 
+	width: 500px;
+	margin-top: 250px;
+	margin-left: 100px;
+}
+
+#column1 {
+	width: 500px;
+	vertical-align: top;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.logo {
+	font-family: 'Jura', Arial, sans-serif;
+	text-align: center;
+	font-size: 70px;
+	margin-top: 0px;
+}
+
+.text {
+	text-align: center;
+	vertical-align: middle;
+	font-family: Verdana, sans-serif;
+}
+
+body {
+	background-image: url("background.jpg");
+	background-color: #CEC3C1;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: auto;
+	margin: 0px;
+	}
+
+h2 {
+	font-weight: normal;
+
+}
+
+#menu {
+	width: 100%;
+	text-align: center;
+	margin-top: 75px;
+	font-family: Arial, sans-serif;
+}
+
+.menu_ul li {
+	display: inline;
+	margin-right: 75px;
+	font-family: Arial, sans-serif;
+}
