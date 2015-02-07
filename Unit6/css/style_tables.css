@@ -14,16 +14,15 @@
 
 }
 
-.column1{
-	width: 75%;
+.column_left {
+	width: 65%;
 	height: 400px;
 	float: left;
-	margin-bottom: 30px;
 
 }
 
-.column2 {
-	width: 25%;
+.column_right {
+	width: 35%;
 	height: 400px;
 	float: left;
 }
