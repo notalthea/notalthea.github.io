@@ -32,6 +32,10 @@
 	padding-bottom: 3%;
 }
 
+body {
+	text-align: center;
+}
+
 h1 {
 	font-family: 'Permanent Marker', sans-serif;
 	font-size: 45px;
