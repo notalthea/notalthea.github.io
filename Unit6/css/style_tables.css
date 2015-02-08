@@ -1,8 +1,8 @@
-.page {
-
+#page {
+	padding-top: 50px;
 }
 
-.top-nav {
+#top-nav {
 
 }
 
@@ -10,7 +10,7 @@
 
 }
 
-.main {
+#main {
 
 }
 
@@ -31,10 +31,6 @@
 	width: 100%;
 	height: 400px;
 	padding-bottom: 40px;
-}
-
-#page {
-	padding-top: 50px;
 }
 
 h1 {
