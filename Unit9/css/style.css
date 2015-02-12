@@ -76,12 +76,32 @@ h1 a {
 }
 
 img {
-	padding-left: 0;
 	height: 50%;
 }
 
 @media only screen and (max-width: 768px) {
-	#column1, #column2 {
+	.column1, .column2 {
+		float: none;
+		width: auto;
+		text-align: center;
+	}
+
+	.menu {
+		display: inline-block;
+	}
+
+	h1 {
+		text-align: center;
+	}
+	nav a {
+		display: block;
+		text-align: center;
+		margin: 0;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	#column1, #column2, {
 		float: none;
 		width: auto;
 	}
@@ -116,9 +136,5 @@ img {
 }
 
 #img6 {
-	
-}
-
-#img7 {
 	
 }
